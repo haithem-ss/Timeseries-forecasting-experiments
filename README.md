@@ -98,4 +98,4 @@ Potential directions to explore:
 
 For a detailed walkthrough of this project, including insights and lessons learned, check out my blog post:
 
-**[Time Series Forecasting Experiments: Classical vs ML Approaches](#)** *(Coming soon)*
+**[Time Series Forecasting Experiments: Classical vs ML Approaches](https://www.haithemsaida.engineer/en/blog/time-series-forecasting-experiments)**
